@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DialogueSystem.Runtime.Enumerations
+namespace Plugins.LaNovel.Runtime.Enumerations
 {
     [Serializable]
     public enum DSDialogueType

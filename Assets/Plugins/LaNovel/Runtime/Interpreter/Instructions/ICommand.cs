@@ -1,4 +1,4 @@
-﻿namespace Plugins.LaNovel.Scripts.Interpreter.Instructions
+﻿namespace Plugins.LaNovel.Runtime.Interpreter.Instructions
 {
     public interface ICommand
     {

@@ -1,7 +1,7 @@
 ﻿using UnityEditor.Experimental.GraphView;
 using UnityEngine;
 
-namespace Plugins.LaNovel.Scripts.Editor.Elements
+namespace Plugins.LaNovel.Editor.Elements
 {
     public class DSGroup : Group
     {

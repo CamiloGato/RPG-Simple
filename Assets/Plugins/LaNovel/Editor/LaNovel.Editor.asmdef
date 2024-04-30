@@ -1,0 +1,16 @@
+{
+    "name": "LaNovel.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:cbc92b4ecb0040529c5a1e4dbded4421"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

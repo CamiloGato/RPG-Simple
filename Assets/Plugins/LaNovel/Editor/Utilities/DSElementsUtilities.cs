@@ -1,9 +1,9 @@
 ﻿using System;
-using Plugins.LaNovel.Scripts.Editor.Elements;
+using Plugins.LaNovel.Editor.Elements;
 using UnityEditor.Experimental.GraphView;
 using UnityEngine.UIElements;
 
-namespace Plugins.LaNovel.Scripts.Editor.Utilities
+namespace Plugins.LaNovel.Editor.Utilities
 {
     public static class DSElementsUtilities
     {

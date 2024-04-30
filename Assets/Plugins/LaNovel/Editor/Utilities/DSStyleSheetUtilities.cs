@@ -1,7 +1,7 @@
 ﻿using UnityEditor;
 using UnityEngine.UIElements;
 
-namespace Plugins.LaNovel.Scripts.Editor.Utilities
+namespace Plugins.LaNovel.Editor.Utilities
 {
     public static class DSStyleSheetUtilities
     {

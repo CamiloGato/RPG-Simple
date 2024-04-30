@@ -1,4 +1,4 @@
-﻿namespace Plugins.LaNovel.Scripts.Interpreter
+﻿namespace Plugins.LaNovel.Runtime.Interpreter
 {
     public class LNovBuilder
     {

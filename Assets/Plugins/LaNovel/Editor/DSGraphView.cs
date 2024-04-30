@@ -1,13 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
-using DialogueSystem.Runtime.Enumerations;
-using Plugins.LaNovel.Scripts.Editor.Elements;
-using Plugins.LaNovel.Scripts.Editor.Utilities;
+using Plugins.LaNovel.Editor.Elements;
+using Plugins.LaNovel.Editor.Utilities;
+using Plugins.LaNovel.Runtime.Enumerations;
 using UnityEditor.Experimental.GraphView;
 using UnityEngine;
 using UnityEngine.UIElements;
 
-namespace Plugins.LaNovel.Scripts.Editor
+namespace Plugins.LaNovel.Editor
 {
     public class DSGraphView : GraphView
     {

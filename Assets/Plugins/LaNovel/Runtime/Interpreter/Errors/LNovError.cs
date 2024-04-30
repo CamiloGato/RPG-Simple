@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Plugins.LaNovel.Scripts.Interpreter.Errors
+namespace Plugins.LaNovel.Runtime.Interpreter.Errors
 {
     public class LNovSyntaxError : Exception
     {

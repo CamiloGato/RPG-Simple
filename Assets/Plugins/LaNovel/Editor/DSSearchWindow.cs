@@ -1,10 +1,10 @@
 ﻿using System.Collections.Generic;
-using DialogueSystem.Runtime.Enumerations;
-using Plugins.LaNovel.Scripts.Editor.Elements;
+using Plugins.LaNovel.Editor.Elements;
+using Plugins.LaNovel.Runtime.Enumerations;
 using UnityEditor.Experimental.GraphView;
 using UnityEngine;
 
-namespace Plugins.LaNovel.Scripts.Editor
+namespace Plugins.LaNovel.Editor
 {
     public class DSSearchWindow : ScriptableObject, ISearchWindowProvider
     {

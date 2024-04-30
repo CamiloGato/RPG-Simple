@@ -1,9 +1,9 @@
-﻿using DialogueSystem.Runtime.Enumerations;
-using Plugins.LaNovel.Scripts.Editor.Utilities;
+﻿using Plugins.LaNovel.Editor.Utilities;
+using Plugins.LaNovel.Runtime.Enumerations;
 using UnityEditor.Experimental.GraphView;
 using UnityEngine;
 
-namespace Plugins.LaNovel.Scripts.Editor.Elements
+namespace Plugins.LaNovel.Editor.Elements
 {
     public class DSSingleChoiceNode : DSNode
     {
