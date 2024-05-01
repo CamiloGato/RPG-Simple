@@ -2,9 +2,9 @@
 
 namespace Plugins.LaNovel.Runtime.Interpreter.Errors
 {
-    public class LNovSyntaxError : Exception
+    public class LaNovSyntaxError : Exception
     {
-        public LNovSyntaxError(int line) : base(
+        public LaNovSyntaxError(int line) : base(
             $"Error on command line {line} Syntax Error"
         ) {}
     }
