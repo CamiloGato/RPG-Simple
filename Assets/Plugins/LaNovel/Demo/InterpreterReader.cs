@@ -1,5 +1,4 @@
 using System.IO;
-using Plugins.LaNovel.Runtime.Interpreter;
 using TMPro;
 using UnityEngine;
 
@@ -20,7 +19,7 @@ namespace Plugins.LaNovel.Demo
         public void Save()
         {
             string contents = inputField.text;
-            File.WriteAllText(_path, contents);
+            File.WriteAllText(_path, contents );
 #if UNITY_EDITOR
             UnityEditor.AssetDatabase.Refresh();
 #endif
@@ -28,8 +27,8 @@ namespace Plugins.LaNovel.Demo
 
         public void Load()
         {
-            string result = LaNov.Instance.Interpreter.ExecuteFile(_path);
-            text.text = result;
+            // string result = LaNov.Instance.Interpreter.ExecuteFile(_path);
+            // text.text = result;
         }
     }
 }
